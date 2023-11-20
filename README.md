@@ -1,5 +1,4 @@
 # Guia de estilos
-## CSS: dispondo elementos com Flexbox e Grid - Curos Alura.
 
 Toda a estilização que será usada no projeto dentro do figma.
 
